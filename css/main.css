@@ -1,0 +1,238 @@
+#mainheaderrow {
+  /*background-color: #edefed;*/
+}
+
+#mainheaderpic {
+  height: 400px;
+  background-color: #fff;
+  border-bottom: 1px solid #d0d4d9;
+  box-shadow: 0px 1px 1px #d0d4d9;
+  background-image: url("../images/banner1.jpg");
+}
+
+#headlogo {
+  font-size: 60px;
+  font-family: Circular, Helvetica, sans-serif;
+  font-weight: bold;
+  color: #fff;
+  text-align: left;
+  margin-left: 10px;
+}
+
+#infobutton {
+  background-color: rgba(255, 255, 255, 0.498039);
+  border-bottom-color: rgb(56, 59, 60);
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+  border-left-color: rgb(86, 90, 92);
+  border-right-color: rgb(86, 90, 92);
+  border-top-color: rgb(86, 90, 92);
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  color: black;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 22.88px;
+  padding-left: 27px;
+  padding-right: 27px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  width: 200px;
+  margin-top: 5px;
+}
+
+#middlecontent {
+  margin: auto 0;
+}
+
+#middlerow1 {
+  background-color: rgba(237, 239, 237);
+  margin: 10px;
+  text-align: center;
+}
+
+#mainsearch {
+  background-color: white;
+  border-bottom-color: rgb(191,191,191);
+  border-bottom-left-radius: 2px;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-left-color: rgb(191,191,191);
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-right-color: rgb(191,191,191);
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-bottom-right-radius: 2px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  color: rgb(86,90,92);
+  font-size: 16px;
+  height: 34px;
+  padding: 10px;
+  width: 380px;
+}
+
+#mainsubmitbutton {
+  background-color: #FFD700;
+  /*border-bottom-color: black;*/
+  border-bottom-right-radius: 2px;
+  border-bottom-left-radius: 2px;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  /*border-left-color: black;*/
+  border-left-style: solid;
+  border-left-width: 1px;
+  /*border-right-color: black;*/
+  border-right-style: solid;
+  border-right-width: 1px;
+  /*border-top-color: black;*/
+  border-top-right-radius: 2px;
+  border-top-width: 1px;
+  border-top-style: solid;
+  line-height: 22.88px;
+  padding-left: 7px;
+  padding-right: 7px;
+  color: black;
+  font-family: Helvetica;
+  font-size: 16px;
+  font-weight: bold;
+  height: 34px;
+  width: 107px;
+}
+
+#middlerow2 {
+  background-color: #edefed;
+  text-align: center;
+  padding: 5px;
+}
+
+#middlerow3 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.logos {
+  font-size: 32px;
+  font-family: Helvetica;
+  font-weight: bold;
+  color: #565a5c;
+}
+
+#middlerow4 {
+  background-color: #edefed;
+  text-align: center;
+}
+
+
+.sublogos {
+  font-size: 16px;
+  line-height: 1.43;
+  color: #565a5c;
+  font-family: Helvetica;
+  font-weight: bold;
+}
+
+.genrebox {
+  height: 230px;
+  width: 341px;
+  display: inline-block;
+  float: left;
+  margin: 30px;
+  position: relative;
+}
+
+.genrebox:hover {
+  opacity: 0.5;
+}
+
+.communitybox {
+  display: inline-block;
+  position: relative;
+  margin: 30px;
+}
+
+.communitybox:hover {
+  opacity: 0.5;
+}
+
+.caption1 {
+  position: absolute;
+  bottom: 10%;
+  left: 0;
+  width: 100%;
+  padding: 10px 0;
+  font-size: 18px;
+  color: white;
+  background-color: rgba(0,0,0,0.1);
+  text-align: center;
+  font-weight: normal;
+  font-family: Helvetica;
+  line-height: 22.88px;
+}
+
+.caption {
+  position: absolute;
+  bottom: 40%;
+  left: 0;
+  width: 100%;
+  padding: 10px 0;
+  font-size: 18px;
+  color: white;
+  background-color: rgba(0,0,0,0.5);
+  text-align: center;
+  font-weight: normal;
+  font-family: Helvetica;
+  line-height: 22.88px;
+}
+
+#communitylogo1 {
+  position: absolute;
+  bottom: 90%;
+  left: 25%;
+  width: 50%;
+  padding: 10px 0;
+  font-size: 18px;
+  color: white;
+  background-color: #007a87;
+  text-align: center;
+  font-weight: normal;
+  font-family: Helvetica;
+  line-height: 22.88px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+#communitylogo2 {
+  position: absolute;
+  bottom: 90%;
+  left: 25%;
+  width: 50%;
+  padding: 10px 0;
+  font-size: 18px;
+  color: white;
+  background-color: #7b0051;
+  text-align: center;
+  font-weight: normal;
+  font-family: Helvetica;
+  line-height: 22.88px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+#communitylogo3 {
+  position: absolute;
+  bottom: 90%;
+  left: 25%;
+  width: 50%;
+  padding: 10px 0;
+  font-size: 18px;
+  color: white;
+  background-color: #393c3d;
+  text-align: center;
+  font-weight: normal;
+  font-family: Helvetica;
+  line-height: 22.88px;
+  margin: 0 auto;
+  padding: 10px;
+}
